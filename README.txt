@@ -1,4 +1,4 @@
-README Project 3
+README B-Tree
 CSC 310
 Samantha Scholz
 
